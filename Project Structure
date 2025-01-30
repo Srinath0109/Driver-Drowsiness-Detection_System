@@ -1,0 +1,8 @@
+DrowsinessDetection/
+│── app.py                # Main application
+│── detector.py           # Drowsiness detection logic
+│── utils.py              # Helper functions
+│── sound_alert.py        # Plays an alert sound
+│── requirements.txt      # Dependencies
+│── shape_predictor.dat   # Pre-trained Dlib face landmarks model
+│── README.md             # Documentation
